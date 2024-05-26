@@ -1,0 +1,15 @@
+F:\Programas\ProjetoAgenda\ProjetoAgenda\bin\Debug\net7.0\ProjetoAgenda.exe
+F:\Programas\ProjetoAgenda\ProjetoAgenda\bin\Debug\net7.0\ProjetoAgenda.deps.json
+F:\Programas\ProjetoAgenda\ProjetoAgenda\bin\Debug\net7.0\ProjetoAgenda.runtimeconfig.json
+F:\Programas\ProjetoAgenda\ProjetoAgenda\bin\Debug\net7.0\ProjetoAgenda.dll
+F:\Programas\ProjetoAgenda\ProjetoAgenda\bin\Debug\net7.0\ProjetoAgenda.pdb
+F:\Programas\ProjetoAgenda\ProjetoAgenda\obj\Debug\net7.0\ProjetoAgenda.csproj.AssemblyReference.cache
+F:\Programas\ProjetoAgenda\ProjetoAgenda\obj\Debug\net7.0\ProjetoAgenda.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\ProjetoAgenda\ProjetoAgenda\obj\Debug\net7.0\ProjetoAgenda.AssemblyInfoInputs.cache
+F:\Programas\ProjetoAgenda\ProjetoAgenda\obj\Debug\net7.0\ProjetoAgenda.AssemblyInfo.cs
+F:\Programas\ProjetoAgenda\ProjetoAgenda\obj\Debug\net7.0\ProjetoAgenda.csproj.CoreCompileInputs.cache
+F:\Programas\ProjetoAgenda\ProjetoAgenda\obj\Debug\net7.0\ProjetoAgenda.dll
+F:\Programas\ProjetoAgenda\ProjetoAgenda\obj\Debug\net7.0\refint\ProjetoAgenda.dll
+F:\Programas\ProjetoAgenda\ProjetoAgenda\obj\Debug\net7.0\ProjetoAgenda.pdb
+F:\Programas\ProjetoAgenda\ProjetoAgenda\obj\Debug\net7.0\ProjetoAgenda.genruntimeconfig.cache
+F:\Programas\ProjetoAgenda\ProjetoAgenda\obj\Debug\net7.0\ref\ProjetoAgenda.dll
